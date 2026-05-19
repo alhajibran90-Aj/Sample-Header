@@ -19,17 +19,31 @@ ul{
     color: white;
     text-align: center;
     margin: 0px;
-    
-   
 }
+
 /* Styling list items */
 li{
     display: inline;
     padding: 5px;
     margin: 25px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 17px;
+    font-size: 17px; 
+}
 
-    
-    
+/* Adding Hover Effect */
+li:hover{
+    color: greenyellow;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+/* Styling Button */
+button{
+    background-color: white;
+    border: none;
+    padding: 10px 18px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+   
 }
