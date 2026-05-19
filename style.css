@@ -1,0 +1,35 @@
+
+/* Styling Header */
+header{
+    border: 25px solid;
+}
+
+/* Styling PearlsLOGO */
+.logo{
+    vertical-align: middle;
+}
+/* Styling body */
+body{
+    margin: 0%;
+}
+
+/* Styling list */
+ul{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: 0px;
+    
+   
+}
+/* Styling list items */
+li{
+    display: inline;
+    padding: 5px;
+    margin: 25px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 17px;
+
+    
+    
+}
